@@ -1,3 +1,7 @@
 *~
 *.old
 *.pyc
+
+/media
+
+*.sqlite3
